@@ -1,0 +1,24 @@
+{
+  "name": "my-first-webpage",
+  "version": "0.0.0",
+  "description": "my cool webpage",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "http-server": "^0.11.1"
+  },
+  "scripts": {
+    "dev": "http-server -p 8080 .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mvajler/my-first-webpage.git"
+  },
+  "author": "mvajler",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/mvajler/my-first-webpage/issues"
+  },
+  "homepage": "https://github.com/mvajler/my-first-webpage#readme"
+}
